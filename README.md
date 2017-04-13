@@ -1,5 +1,7 @@
 # rimraf-test
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/iamstarkov/rimraf-test.svg)](https://greenkeeper.io/)
+
 i’m trying to remove all `.dot` files, except `.git` and all `*.js` except one `exception.js`, but i’m failing
 
 ## install
